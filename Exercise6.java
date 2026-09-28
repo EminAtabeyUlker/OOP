@@ -17,7 +17,7 @@ class InvoiceService {
     }
 }
 
-public class Main {
+public class Exercise6 {
     public static void main(String[] args) {
         InventoryService inventory =
                 new InventoryService();
