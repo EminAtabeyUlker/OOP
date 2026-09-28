@@ -35,7 +35,7 @@ class BomRevision {
     }
 }
 
-public class Main {
+public class Exercise3 {
     public static void main(String[] args) {
         List<BomLine> original = new ArrayList<>();
 
