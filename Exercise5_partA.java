@@ -21,7 +21,7 @@ class MaterialPlanner {
     }
 }
 
-public class Main {
+public class Exercise5_partA {
     public static void main(String[] args) {
         InventorySnapshot stock =
                 new InventorySnapshot(
