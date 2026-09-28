@@ -1,0 +1,53 @@
+Exercise 1 Output:
+
+a: CHAIR-A
+b: CHAIR-B
+
+Exercise 2 Output:
+
+
+Exception in thread "main" java.lang.IllegalArgumentException: lossPercent must be between 0 and 99 
+
+
+Exercise 3 Output:
+
+Before change:
+Original size: 1
+Revision size: 1
+After change:
+Original size: 2
+Revision size: 1
+Exception in thread "main" java.lang.UnsupportedOperationException
+
+
+Exercise 4 Output:
+
+
+WOOD-A: 3000
+GLUE-A: 50
+METAL-A: 0
+WOOD-A again: 3000
+
+
+
+Exercise 5 Part A Output:
+
+
+Planner sees WOOD-A: 3000
+
+
+
+Exercise 5 Part B Output:
+
+
+Viewer remembers WOOD-A: 3000
+Viewer remembers WOOD-A: 3000
+
+
+Exercise 6 Output:
+
+
+Stock updated
+Material requirements calculated
+Invoice created
+
