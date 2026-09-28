@@ -14,7 +14,7 @@ class Product {
     }
 }
 
-public class Main {
+public class Exercise1 {
     public static void main(String[] args) {
         Product a = new Product("CHAIR-A");
         // Variable changed to test independent objects as requested
