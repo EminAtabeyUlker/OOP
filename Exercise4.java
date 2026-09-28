@@ -13,7 +13,7 @@ class InventorySnapshot {
     }
 }
 
-public class Main {
+public class Exercise4 {
     public static void main(String[] args) {
         Map<String, Long> stock = new HashMap<>();
 
