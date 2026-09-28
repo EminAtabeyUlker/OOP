@@ -27,7 +27,7 @@ class StockViewer {
     }
 }
 
-public class Main {
+public class Exercise5_partB {
     public static void main(String[] args) {
         InventorySnapshot stock =
                 new InventorySnapshot(
