@@ -26,7 +26,7 @@ class BomLine {
     }
 }
 
-public class Main {
+public class Exercise2 {
     public static void main(String[] args) {
         // Tested with 120 as requested in the final step of the exercise
         BomLine line = new BomLine("WOOD-A", 25, 120);
